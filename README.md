@@ -44,7 +44,7 @@ python main.py
 	3.	Use “Show BMI Trend” to view a time-series graph.
 	4.	Use “Show Category Distribution” to view a pie chart of BMI categories.
 ### Dependencies
-###•	Python 3.8+
+•	Python 3.8+
 	•	Tkinter (comes pre-installed with Python)
 	•	Matplotlib
 	•	SQLite3 (comes pre-installed with Python)
